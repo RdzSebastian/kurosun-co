@@ -62,7 +62,7 @@ function HomepageContent() {
       )}
       <ProductSwimlane
         data={featuredProducts.nodes}
-        title="Featured Products"
+        title="Our Mouse pads"
         divider="bottom"
       />
       {secondaryHero && <Hero {...secondaryHero} />}
