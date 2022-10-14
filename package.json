@@ -8,6 +8,7 @@
     "node": ">=16.14.0"
   },
   "scripts": {
+    "start": "node server.js",
     "dev": "shopify hydrogen dev",
     "build": "shopify hydrogen build",
     "preview": "shopify hydrogen preview",
